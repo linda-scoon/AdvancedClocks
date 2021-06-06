@@ -13,6 +13,10 @@ import javax.swing.JComponent;
  */
 public class ClockComponent extends JComponent implements Runnable {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private Clock clock;
 
 	public ClockComponent(int adj, String location) {

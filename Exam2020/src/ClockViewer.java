@@ -25,7 +25,7 @@ public class ClockViewer {
 		ClockComponent clock7 = new ClockComponent(10, "Australia");
 		ClockComponent clock8 = new ClockComponent(11, "Micronesia");
 
-		Thread t = new Thread(clock);
+		Thread t1 = new Thread(clock);
 		Thread t2 = new Thread(clock2);
 		Thread t3 = new Thread(clock3);
 		Thread t4 = new Thread(clock4);
@@ -34,7 +34,7 @@ public class ClockViewer {
 		Thread t7 = new Thread(clock7);
 		Thread t8 = new Thread(clock8);
 
-		t.start();
+		t1.start();
 		t2.start();
 		t3.start();
 		t4.start();
