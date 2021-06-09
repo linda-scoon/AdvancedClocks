@@ -6,11 +6,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="logo_small.png" alt="Logo_small" width="200" height="50">
-  </a>
 
-  <h3 align="center">Clocks</h3>
+<h3 align="center">Clocks</h3>
 
   <p align="center">
    Clocks telling the time in eight different regions.
