@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![clocks](Clocks.gif)
+![clocks](clocks.gif)
 
 This was a second year exam question which I failed to complete at the time, so I decided to complete it later. 
 The time is aquired through the java LocalTime class and then angles are calculated to get the time in minutes translated into degrees. 
